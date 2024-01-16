@@ -1,4 +1,4 @@
-site_name: Arca Documentation
+site_name: BC ELN Documentation
 site_url: https://bceln.github.io
 repo_url: https://github.com/bceln/bceln.github.io
 edit_uri: edit/main/docs
@@ -6,10 +6,10 @@ edit_uri: edit/main/docs
 
 theme:
   name: material
-  logo: 'assets/Arca_Logo_web.svg'
+  logo: 'assets/bceln_website.jpg'
   palette:
-    primary: 'cyan'
-    accent: 'purple'
+    primary: 'purple'
+    accent: 'yellow'
   language: 'en'
   features:
     - content.action.edit
@@ -38,10 +38,5 @@ extra_css:
 nav:
   - Home: index.md
   - About:
-    - About Arca: about/about-arca.md
+    - About: about/about.md
     - Support: about/support.md
-  - Migration:
-    - Timeline: migration/migration-timeline.md
-    - Metadata Mapping: migration/metadata-mapping.md
-    - Migration Tasks:
-      - Metadata Corrections: migration/migration-tasks/metadata-corrections.md

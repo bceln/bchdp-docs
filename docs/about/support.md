@@ -1,3 +1,3 @@
 # Getting Support
 
-If you need help, contact the Arca Office: arcaoffice@bceln.ca.
+If you need help, contact the BC ELN Office: office@bceln.ca.
