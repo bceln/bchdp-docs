@@ -6,27 +6,12 @@
          <changefreq>daily</changefreq>
     </url>
     <url>
-         <loc>https://bceln.github.io/about/about-arca/</loc>
+         <loc>https://bceln.github.io/about/about/</loc>
          <lastmod>2024-01-16</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://bceln.github.io/about/support/</loc>
-         <lastmod>2024-01-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bceln.github.io/migration/metadata-mapping/</loc>
-         <lastmod>2024-01-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bceln.github.io/migration/migration-timeline/</loc>
-         <lastmod>2024-01-16</lastmod>
-         <changefreq>daily</changefreq>
-    </url>
-    <url>
-         <loc>https://bceln.github.io/migration/migration-tasks/metadata-corrections/</loc>
          <lastmod>2024-01-16</lastmod>
          <changefreq>daily</changefreq>
     </url>

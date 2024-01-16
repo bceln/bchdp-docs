@@ -6,7 +6,7 @@ edit_uri: edit/main/docs
 
 theme:
   name: material
-  logo: 'assets/bceln_website.jpg'
+  logo: 'assets/bceln_logo.jpg'
   palette:
     primary: 'purple'
     accent: 'yellow'
