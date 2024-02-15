@@ -12,7 +12,7 @@ Membership is fee-based, according to your institution's size or CRKN band.
 
 There is no fee to deposit data in FRDR.
 
-### Features, benefits, and drawbacks:
+### Features, benefits, and drawbacks
 
 | **Borealis** | **FRDR** |
 | --- | --- |
