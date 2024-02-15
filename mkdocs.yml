@@ -39,6 +39,6 @@ nav:
   - Home: index.md
   - Initiatives:
     - RDM Decision Support: initiatives/rdm-decision-support.md
-    - About:
+  - About:
     - About: about/about.md
     - Support: about/support.md
