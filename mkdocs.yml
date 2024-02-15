@@ -37,6 +37,8 @@ extra_css:
 
 nav:
   - Home: index.md
-  - About:
+  - Initiatives:
+    - RDM Decision Support: initiatives/rdm-decision-support.md
+    - About:
     - About: about/about.md
     - Support: about/support.md
