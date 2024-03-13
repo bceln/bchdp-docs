@@ -8,8 +8,8 @@ theme:
   name: material
   logo: 'assets/bceln_logo.jpg'
   palette:
-    primary: 'purple'
-    accent: 'yellow'
+    primary: 'blue'
+    accent: 'light blue'
   language: 'en'
   features:
     - content.action.edit
