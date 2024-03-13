@@ -1,6 +1,6 @@
-site_name: BC ELN Documentation
-site_url: https://bceln.github.io
-repo_url: https://github.com/bceln/bceln.github.io
+site_name: BC ELN-BCHDP Support Documentation
+site_url: https://bceln.github.io/bchdp-docs
+repo_url: https://github.com/bceln/bchdp-docs
 edit_uri: edit/main/docs
 
 
@@ -37,8 +37,6 @@ extra_css:
 
 nav:
   - Home: index.md
-  - Initiatives:
-    - RDM Decision Support: initiatives/rdm-decision-support.md
   - About:
     - About: about/about.md
-    - Support: about/support.md
+    - Contact: about/contact.md
