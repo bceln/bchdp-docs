@@ -22,7 +22,7 @@ Below are sample workflows and estimated time and personnel required for each fo
 
 ### 3.03 Digitization best practices
 Describe your digitization workflow and outline the digitization standards and file formats that will be used in the project.
-Examples of digitization standarsd to follow:
+Examples of digitization standards to follow:
 
 - [FADGI Technical Guidelines for Digitizing Cultural Heritage Materials](https://www.digitizationguidelines.gov/guidelines/digitize-technical.html)
 - [Library of Congress Recommended Formats Statement](https://www.loc.gov/preservation/resources/rfs/)
@@ -53,7 +53,7 @@ Metadata schema suggestions:
 Examples of access / hosting options for making your digitized objects available to the public or your community:
 
 - [Arca](http://arcabc.ca/)
-- [MemoryBC](http://www.memorybc.ca/)
+- [Collective Access](https://www.collectiveaccess.org/)
 - [Our Digital World’s VITA Digital Toolkit](https://ourdigitalworld.net/services/vita-toolkit/)
 - [Access to Memory AtoM](https://www.accesstomemory.org/en/)
 - [CONTENTdm](http://www.oclc.org/en/contentdm.html)
