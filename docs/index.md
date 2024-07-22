@@ -19,6 +19,7 @@ BC ELN and IKBLC initiated this partnership in 2021 to meet a shared commitment 
 - [2021 News Release](https://bceln.ca/sites/default/files/news/2021_BCELN-BCHDP_Support_Service_News_Release.pdf)
 - [Arca Partnerships Impact Report 2021](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2021.pdf)
 - [Arca Partnerships Impact Report 2022](https://bceln.ca/sites/default/files/reports/BCHDP_Arca_Partnerships_Impact_Reports_2022_Final_COMBINED.pdf)
+- [Arca Partnerships Impact Report 2023](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2023_FINAL.pdf)
 
 ## Participation
 BC’s small libraries, archives, museums, galleries and historical associations applying for BCHDP grants are eligible to receive BC ELN support during the grant application process. Additionally, organisations can access no-cost hosting for their BCHDP-funded materials in the [Arca provincial digital repository](https://bchdp.arcabc.ca/) through the [BCHDP-Arca Hosting Initiative](https://bceln.ca/services/shared-services/bchdp-arca-hosting-initiative).
