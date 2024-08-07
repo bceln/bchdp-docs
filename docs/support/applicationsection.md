@@ -4,12 +4,10 @@ Following are links to helpful resources and tips, organized according to the co
 ### 2.05 Detailed project schedule
 Below are sample workflows and estimated time and personnel required for each format of materials. These are general guidelines only, and will vary based on various factors such as conditions of materials, level of post-processing required, and total number of items to be digitized.
 
-- [Digitizing VHS Tapes](https://docs.google.com/document/d/1uvoLyEZuoXWIi69EOfVAbBto15WQFMwIOf3aZiCt8Ng/edit?usp=sharing)
-- [Digitizing Newspapers](https://docs.google.com/document/d/1vZ1DslvVgu2Jer8w8oQvt_CgAP7lKpX0Rb6IAGjEWew/edit?usp=sharing)
-- [Digitizing Artifacts](https://docs.google.com/document/d/1AaJ4qd4KW51Arwz_qKtQbnS8CUMjvbmw1OvoFSwOl3M/edit?usp=sharing)
-- [Digitizing Microfilm](https://docs.google.com/document/d/11qRd3_NXeWBaMsspDLl-JmgeEiE5_KfjRfdmvTERXAU/edit?usp=sharing)
-- [Digitizing Photographs](https://docs.google.com/document/d/1vvjePbotSywfAzUQhQc2wtoFQn2PyD5oAW17aZRzL0g/edit?usp=sharing)
-- [Digitizing Fragile Historical Materials](https://docs.google.com/document/d/1VPCdkZ8hPROsd50EPSJXzxEv-kcggihPwVKHIy3uHdM/edit?usp=sharing)
+- [Digitizing VHS Tapes](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EWnoBRR2GTpBlWlVNpv4w9IBL5OUeyGcXwVMcMqNxtzKKQ?e=Q3mPAb)
+- [Digitizing Newspapers](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/ER-3SIJ4sPpPgRPPvla-NssB77m1nwjjS4V379tpuENrZg?e=0Xi0vN)
+- [Digitizing Photographs](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EdVhwe-KycJOr8HUMphX0RIBCv9UPZtUP_NFtQL7ir6xUg?e=Frch17)
+- [Digitizing Fragile Historical Materials](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EYuGEUQm2WFOgKvdmpLrJCgBMkXltOv70fOOOrPYeaPRFQ?e=cUv0T6)
 
 ## 3. Digitization & Copyright and Permission Details
 ### 3.02 Copyright considerations
