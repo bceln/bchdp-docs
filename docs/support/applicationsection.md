@@ -12,8 +12,8 @@ Below are sample workflows and estimated time and personnel required for each fo
 ## 3. Digitization & Copyright and Permission Details
 ### 3.02 Copyright considerations
 
-- [Copyright & Ethical Considerations for Digitization Projects](https://docs.google.com/document/d/16XunjfXFR6wzPB4m21fcbI121neuauhWwjl_d12VxEo/edit?usp=sharing)
-- [How to Choose Rights Statements and Creative Commons Licenses](https://docs.google.com/document/d/1npPsOJWl8MV0Eq5gEYrw3hD4VsSbGf32EBh5QZdQE0w/edit?usp=sharing)
+- [Copyright & Ethical Considerations for Digitization Projects](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EWX8doBbm_ZNh_R63_FTfUwB34Lf7Y4BSioDSdZ2IkEAZg?e=Q4sWoe)
+- [How to Choose Rights Statements and Creative Commons Licenses](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EXsVv05CfEhLtqQg077Q4vYBkz4lUfK_f-gb8B3AN_F7AQ?e=zFBJrD)
 - [UBC Public Domain Page](https://copyright.ubc.ca/public-domain/)
 - [Donor Agreement Template](https://bchdp.bcelnapps.ca/sites/default/files/2022-08/DonorAgreementTemplate_2022.docx)
 - [Copyright Agreement Template](https://bchdp.bcelnapps.ca/sites/default/files/2022-08/CopyrightAgreementTemplate_2022.docx)
@@ -31,7 +31,7 @@ Describe how quality control and testing will be incorporated.
 
 Linked here is a guide containing Quality Control (QC) or Quality Assurance (QA) recommendations, including a checklist and external resources to consult:
 
-- [Quality Control Recommendations for Digitization Projects](https://docs.google.com/document/d/1OqWOuJF67uxwqq7_QpFG9bWqFCkwUgls4p-WKrlWOC4/view)
+- [Quality Control Recommendations for Digitization Projects](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EUtF-SWvQh1LoMmcd3ojSIQBLj6WaL8BLNarwODckXbmsg?e=raSOBZ)
 
 ## 4. Metadata and Description
 ### 4.02 Metadata schema
