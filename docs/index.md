@@ -24,7 +24,7 @@ BC ELN and IKBLC initiated this partnership in 2021 to meet a shared commitment 
 ## Participation
 BC’s small libraries, archives, museums, galleries and historical associations applying for BCHDP grants are eligible to receive BC ELN support during the grant application process. Additionally, organisations can access no-cost hosting for their BCHDP-funded materials in the [Arca provincial digital repository](https://bchdp.arcabc.ca/) through the [BCHDP-Arca Hosting Initiative](https://bceln.ca/services/shared-services/bchdp-arca-hosting-initiative).
 
-Though the Early Notice Survey for support for the 2025-26 grant cycle has now closed, interested parties are welcome to contact us with any questions or requests for support at `digisupport[at]bceln.ca`.
+The Early Notice Survey for the 2026-27 grant cycle is now open. If your organization is considering applying for a BCHDP grant in the upcoming cycle, please fill out this short Notice of Intent Survey: [https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=927973&lang=en](https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=927973&lang=en)
 
 ## BCHDP grant applicants benefitting from BC ELN support
 !!! bchdp "2025/26"
@@ -35,7 +35,6 @@ Though the Early Notice Survey for support for the 2025-26 grant cycle has now c
     - Sointula Museum and Historical Society*
     - South Asian Studies Institute*
     - Swedish Heritage in British Columbia*
-
 
 !!! bchdp "2024/25"
     - 5th (BC) Artillery Regiment RCA Foundation*
