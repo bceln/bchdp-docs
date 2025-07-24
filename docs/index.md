@@ -1,17 +1,22 @@
 # BC ELN-BCHDP Support Service
 
 ## How can we help you?
-The BC ELN - BCHDP Support Service is provided by the Arca Administrative Centre, based out of the [BC Electronic Library Network (BC ELN)](https://bceln.ca/), BC's consortium of post-secondary libraries. Our staff have years of experience helping small organizations participate in the provincial library services we run. We are leveraging this expertise to support small galleries, libraries, archives and museums (GLAM) create public access to their digitized content by placing it in Arca, BC's collaborative digital repository.
+The BC ELN - BCHDP Support Service is provided by staff at the [BC Electronic Library Network (BC ELN)](https://bceln.ca/), BC's consortium of post-secondary libraries. Our staff have years of experience helping small organizations participate in the provincial library services we run. We are leveraging this expertise to support small galleries, libraries, archives and museums (GLAMs) in providing public access to digitized content.
 
 !!! list "The BC ELN-BCHDP Support Service can help you:"
     - apply for a BCHDP grant to digitize your materials
     - plan your digitization project
-    - organize your digital materials and associated information/metadata for upload into Arca
-    - perform batch upload of your digital materials to the Arca repository
-    - customize the display of your collection (within Arca guidelines)
-    - publicize your Arca collection
+    - host your digitized materials in the [Arca provincial digital repository](https://bchdp.arcabc.ca/)
+        - perform batch upload of your digitized materials to Arca    
+        - customize the display of your collection (within Arca guidelines)
+        - publicize your Arca collection
 
 This support is available to BCHDP grant recipients at no cost through to 2027 thanks to a partnership between BC ELN and the Irving K. Barber Learning Centre at UBC. To provide this critical support, BC ELN draws on a pool of experienced senior staff and engages library school students and contractors from the GLAM sector.
+
+## Participation
+BC’s small libraries, archives, museums, galleries and historical associations applying for BCHDP grants are eligible to receive BC ELN support during the grant application process. Additionally, organizations can access no-cost hosting for their BCHDP-funded materials in the [Arca provincial digital repository](https://bchdp.arcabc.ca/) through the [BCHDP-Arca Hosting Initiative](https://bceln.ca/services/shared-services/bchdp-arca-hosting-initiative).
+
+The Early Notice Survey for the 2026-27 grant cycle is now open. If your organization is considering applying for a BCHDP grant in the upcoming cycle, please fill out this short Notice of Intent Survey: [https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=927973&lang=en](https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=927973&lang=en)
 
 ## News
 BC ELN and IKBLC initiated this partnership in 2021 to meet a shared commitment of supporting the research and learning needs of those across the province by enriching online historical collections.
@@ -20,11 +25,6 @@ BC ELN and IKBLC initiated this partnership in 2021 to meet a shared commitment 
 - [Arca Partnerships Impact Report 2021](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2021.pdf)
 - [Arca Partnerships Impact Report 2022](https://bceln.ca/sites/default/files/reports/BCHDP_Arca_Partnerships_Impact_Reports_2022_Final_COMBINED.pdf)
 - [Arca Partnerships Impact Report 2023](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2023_FINAL.pdf)
-
-## Participation
-BC’s small libraries, archives, museums, galleries and historical associations applying for BCHDP grants are eligible to receive BC ELN support during the grant application process. Additionally, organisations can access no-cost hosting for their BCHDP-funded materials in the [Arca provincial digital repository](https://bchdp.arcabc.ca/) through the [BCHDP-Arca Hosting Initiative](https://bceln.ca/services/shared-services/bchdp-arca-hosting-initiative).
-
-The Early Notice Survey for the 2026-27 grant cycle is now open. If your organization is considering applying for a BCHDP grant in the upcoming cycle, please fill out this short Notice of Intent Survey: [https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=927973&lang=en](https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=927973&lang=en)
 
 ## BCHDP grant applicants benefitting from BC ELN support
 !!! bchdp "2025/26"
