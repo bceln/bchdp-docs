@@ -1,4 +1,4 @@
-# Arca Hosting
+# BCHDP-Arca Hosting Service
 
 !!! question "Are you..."
     - thinking of or in the process of applying for a BC History Digitization Program grant?
@@ -17,18 +17,21 @@ Arca was initially developed with seed-funding from the Ministry of Advanced Edu
 For more information about Arca, visit the [Arca pages](https://bceln.ca/services/shared-services/arca) on the BC ELN website.
 
 ## What standard metadata schema does Arca use?
-Arca uses the Metadata Object Description Schema (MODS): [http://www.loc.gov/standards/mods/](http://www.loc.gov/standards/mods/).  We adhere as much as possible to the [DLF Aquifer Guidelines for Shareable MODS](https://www.loc.gov/standards/mods/userguide/dlfaquifer.html).
+Prior to 2025, Arca members and partners were required to use the Metadata Object Description Schema (MODS) and adhere to the DLF Aquifer Guidelines for Shareable MODS. 
 
-The Arca Administrative Centre will support you in using our MODS metadata templates and guidelines for creating or transforming existing metadata. This will include guidance on field order, use of controlled vocabulary and mandatory fields including title, creator, type, and date.
+Having since migrated to the latest version of Islandora, Arca now offers a flexible metadata framework and does not require the use any single schema. Metadata in Arca is structured using RDF (Resource Description Framework), using fields that can be linked to controlled vocabularies and taxonomies for consistency and interoperability. This structure allows metadata to be expressed or exported in multiple recognized schemas, including Dublin Core, MODS, and DPLAVA. 
 
-We will work with you to ensure standardised application of metadata guidelines to the information you have for your content. Additionally, once uploaded into Arca, your metadata will be automatically transformed into Dublin Core and made widely searchable throughout the Internet via Arca's OAI-PMH feed.
+The Arca Administrative Centre provides guidance and templates to partner organizations for creating or mapping metadata, including recommendations for field selection, controlled vocabularies, and mandatory elements such as title, creator, type, and date.
 
 ## How will my digitized materials be made available online?
-Organizations with BCHDP-funded materials are eligible for no-cost, fully supported hosting of those materials in Arca, BC's award-winning collaborative digital repository. The [BCHDP Arca child site](https://bchdp.arcabc.ca/) is currently home to collections from 17 organizations across the province.
+Collections that have been digitized with funding from the BCHDP are eligible for no-cost, fully supported hosting of those materials in Arca, BC's award-winning collaborative digital repository. The [BCHDP Arca child site](https://bchdp.arcabc.ca/) is currently home to collections from 20 organizations across the province.
 
-Content uploaded into Arca that is intended to be openly accessible is freely searchable via an intuitive, user-friendly search interface at [https://arcabc.ca](https://arcabc.ca). As well as seaching your content alonside over 800 other BC collections, users can choose to search within your specific content via collection-specific search forms. Arca's powerful SOLR indexing and search engine allows your users to search the full-text of newspapers, books and articles, which are automatically OCR'd during upload into Arca.
+Content uploaded into Arca that is intended to be openly accessible is freely searchable via an intuitive, user-friendly search interface at [https://arcabc.ca](https://arcabc.ca). Arca's powerful SOLR indexing and search engine allows your users to search the full-text of newspapers, books and articles, which are automatically OCR'd during upload into Arca.
 
 Collections each have a unique and persistent URL, as does each individual object, making it easy to link to collections or objects from an existing website. Each Arca collection leverages the visibility of all other Arca collections from more than 50 GLAM and post-secondary organisations. Collections also benefit from Arca's standard search engine optimisation, ensuring high placement in Google searches.
 
 ## How can Arca support my digital preservation plan?
 Hosting digital materials in Arca provides an additional access copy of content beyond the archival masters you maintain yourself. Arca access copies are securely stored on SFU's Cloud servers, and backed up as part of SFU Cloud standard backup procedures.
+
+!!! warning
+    At this time, neither BC ELN nor Arca offer digital preservation services. As such, the information above is not a sufficient demonstration of your organization's preservation plan in the context of the BCHDP application.

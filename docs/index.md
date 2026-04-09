@@ -1,7 +1,9 @@
 # BC ELN-BCHDP Support Service
 
 ## How can we help you?
-The BC ELN - BCHDP Support Service is provided by staff at the [BC Electronic Library Network (BC ELN)](https://bceln.ca/), BC's consortium of post-secondary libraries. Our staff have years of experience helping small organizations participate in the provincial library services we run. We are leveraging this expertise to support small galleries, libraries, archives and museums (GLAMs) in providing public access to digitized content.
+The BC ELN - BCHDP Support Service is provided by staff at the [BC Electronic Library Network (BC ELN)](https://bceln.ca/), BC's consortium of post-secondary libraries.
+
+Our staff have years of experience helping small organizations participate in the provincial library services we run. We are leveraging this expertise to support small galleries, libraries, archives and museums (GLAMs) in providing public access to digitized content.
 
 !!! list "The BC ELN-BCHDP Support Service can help you:"
     - apply for a BCHDP grant to digitize your materials
@@ -11,22 +13,32 @@ The BC ELN - BCHDP Support Service is provided by staff at the [BC Electronic Li
         - customize the display of your collection (within Arca guidelines)
         - publicize your Arca collection
 
-This support is available to BCHDP grant recipients at no cost through to 2027 thanks to a partnership between BC ELN and the Irving K. Barber Learning Centre at UBC. To provide this critical support, BC ELN draws on a pool of experienced senior staff and engages library school students and contractors from the GLAM sector.
+This support is available to BCHDP grant applicants at no cost through to 2027 thanks to a partnership between BC ELN and the Irving K. Barber Learning Centre at UBC.
 
-## Participation
-BC’s small libraries, archives, museums, galleries and historical associations applying for BCHDP grants are eligible to receive BC ELN support during the grant application process. Additionally, organizations can access no-cost hosting for their BCHDP-funded materials in the [Arca provincial digital repository](https://bchdp.arcabc.ca/) through the [BCHDP-Arca Hosting Initiative](https://bceln.ca/services/shared-services/bchdp-arca-hosting-initiative).
+## How to Participate
+Please visit the [Service Information page](/bchdp-docs/support/support) for details on eligibility and how to reach us for support.
 
-Though the Early Notice Survey for support for the 2026-27 grant cycle has now closed, interested parties are welcome to contact us with any questions or requests for support at `digisupport[at]bceln.ca`.
+## Updates
 
-## News
-BC ELN and IKBLC initiated this partnership in 2021 to meet a shared commitment of supporting the research and learning needs of those across the province by enriching online historical collections.
-
-- [2021 News Release](https://bceln.ca/sites/default/files/news/2021_BCELN-BCHDP_Support_Service_News_Release.pdf)
-- [Arca Partnerships Impact Report 2021](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2021.pdf)
-- [Arca Partnerships Impact Report 2022](https://bceln.ca/sites/default/files/reports/BCHDP_Arca_Partnerships_Impact_Reports_2022_Final_COMBINED.pdf)
+- [Arca Partnerships Impact Report 2024](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2024_0.pdf)
 - [Arca Partnerships Impact Report 2023](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2023_FINAL.pdf)
+- [Arca Partnerships Impact Report 2022](https://bceln.ca/sites/default/files/reports/BCHDP_Arca_Partnerships_Impact_Reports_2022_Final_COMBINED.pdf)
+- [Arca Partnerships Impact Report 2021](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2021.pdf)
+- [2021 News Release](https://bceln.ca/sites/default/files/news/2021_BCELN-BCHDP_Support_Service_News_Release.pdf)
 
 ## BCHDP grant applicants benefitting from BC ELN support
+
+!!! bchdp "2026/27"
+    - Agassiz-Harrison Museum & Visitor Centre*
+    - BC Society for the Museum of Original Costume (SMOC)
+    - Chinese Nationalist League of Canada*
+    - Creston & District Historical & Museum Society*
+    - Kelowna Museums Society
+    - Museum of the Cariboo Chilcotin*
+    - S.U.C.C.E.S.S.*
+    - Surrey Art Gallery Association*
+    - Swedish Heritage in British Columbia*
+
 !!! bchdp "2025/26"
     - Clayoquot Biosphere Trust Society*
     - Kaatza Station Museum & Archives*
