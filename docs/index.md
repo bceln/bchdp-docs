@@ -1,9 +1,8 @@
 # BC ELN-BCHDP Support Service
 
-## How can we help you?
-The BC ELN - BCHDP Support Service is provided by staff at the [BC Electronic Library Network (BC ELN)](https://bceln.ca/), BC's consortium of post-secondary libraries.
+The BC ELN-BCHDP Support Service is provided by staff at the [BC Electronic Library Network (BC ELN)](https://bceln.ca/), British Columbia's consortium of post-secondary libraries.
 
-Our staff have years of experience helping small organizations participate in the provincial library services we run. We are leveraging this expertise to support small galleries, libraries, archives and museums (GLAMs) in providing public access to digitized content.
+Our staff have years of experience helping small organizations participate in the provincial library services we run. We leverage this expertise to support small galleries, libraries, archives and museums (GLAMs) in providing public access to digitized content.
 
 !!! list "The BC ELN-BCHDP Support Service can help you:"
     - apply for a BCHDP grant to digitize your materials
