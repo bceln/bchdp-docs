@@ -57,7 +57,7 @@ nav:
     - Service Information: support/support.md
     - General Resources: support/generalresources.md
     - Resources by Application Section: support/applicationsection.md
-  - Hosting in Arca: support/arcahosting.md
+  - Hosting in Arca: arcahosting.md
   - About:
     - About: about/about.md
     - Contact: about/contact.md

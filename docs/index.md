@@ -25,7 +25,7 @@ Please visit the [Service Information page](/bchdp-docs/support/support) for det
 - [Arca Partnerships Impact Report 2021](https://bceln.ca/sites/default/files/reports/Arca_Partnerships_Impact_Report_2021.pdf)
 - [2021 News Release](https://bceln.ca/sites/default/files/news/2021_BCELN-BCHDP_Support_Service_News_Release.pdf)
 
-## BCHDP grant applicants benefitting from BC ELN support
+## Recent applicants benefitting from BC ELN support
 
 !!! bchdp "2026/27"
     - Agassiz-Harrison Museum & Visitor Centre*
@@ -54,29 +54,6 @@ Please visit the [Service Information page](/bchdp-docs/support/support) for det
     - Kaatza Station Museum and Archives*
     - Museum of the Cariboo Chilcotin*
     - Swedish Heritage in British Columbia*
-
-!!! bchdp "2023/24"
-    - Alder Grove Heritage Society*
-    - Kaatza Station Museum and Archives*
-    - Pacific Mountain Regional Council Archives*
-    - South Asian Studies Institute*
-    - Vancouver Maritime Museum
-    - Vancouver Police Museum and Archives*
-
-!!! bchdp "2022/23"
-    - Alder Grove Heritage Society*
-    - Alert Bay Public Library*
-    - BC Forest Discovery Centre*
-    - Centre for Socialist Education*
-    - Heritage Abbotsford Society
-    - North Vancouver District Public Library*
-    - Selkirk College*
-    - Society for the Museum of Original Costume*
-    - Tofino Clayoquot Heritage Museum*
-
-!!! bchdp "2021/22"
-    - Société historique francophone de la Colombie-Britannique
-    - Society for the Museum of Original Costume
 
 <sup>* Denotes successful grant applicants</sup>
 

@@ -18,6 +18,6 @@ To provide this critical support, BC ELN draws on a pool of experienced senior s
 !!! warning
     The Early Notice Survey for each year's BCHDP cycle is typically open from July to early August. Interested parties who fill out the survey will be contacted to explore options for support in advance of the actual application cycle (Late September – Early December).
 
-The Early Notice Survey for the 2027-28 grant cycle is **now open**. 
+The Early Notice Survey for the 2027-28 BCHDP grant cycle has closed. Interested parties are still welcome to contact us with questions or requests for support at `digisupport[at]bceln.ca`.
 
-If your organization is considering applying for a BCHDP grant in the upcoming cycle, please fill out this short Notice of Intent Survey: [https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=884849&lang=en](https://surveys.bceln.ca/limesurvey/index.php?r=survey/index&sid=884849&lang=en)
+The survey for the 2028-29 BCHDP cycle will open in July 2027.
