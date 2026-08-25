@@ -4,16 +4,16 @@ Following are links to helpful resources and tips, organized according to the co
 ### 2.05 Detailed project schedule
 Below are sample workflows and estimated time and personnel required for each format of materials. These are general guidelines only, and will vary based on various factors such as conditions of materials, level of post-processing required, and total number of items to be digitized.
 
-- [Digitizing VHS Tapes](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EWnoBRR2GTpBlWlVNpv4w9IBL5OUeyGcXwVMcMqNxtzKKQ?e=Q3mPAb)
-- [Digitizing Newspapers](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/ER-3SIJ4sPpPgRPPvla-NssB77m1nwjjS4V379tpuENrZg?e=0Xi0vN)
-- [Digitizing Photographs](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EdVhwe-KycJOr8HUMphX0RIBCv9UPZtUP_NFtQL7ir6xUg?e=Frch17)
-- [Digitizing Fragile Historical Materials](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EYuGEUQm2WFOgKvdmpLrJCgBMkXltOv70fOOOrPYeaPRFQ?e=cUv0T6)
+- [Digitizing VHS Tapes](../assets/typical-workflow-vhs.pdf)
+- [Digitizing Newspapers](../assets/typical-workflow-newspapers.pdf)
+- [Digitizing Photographs](../assets/typical-workflow-photographs.pdf)
+- [Digitizing Fragile Historical Materials](../assets/typical-workflow-fragile.pdf)
 
 ## 3. Digitization & Copyright and Permission Details
 ### 3.02 Copyright considerations
 
-- [Copyright & Ethical Considerations for Digitization Projects](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EWX8doBbm_ZNh_R63_FTfUwB34Lf7Y4BSioDSdZ2IkEAZg?e=Q4sWoe)
-- [How to Choose Rights Statements and Creative Commons Licenses](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EXsVv05CfEhLtqQg077Q4vYBkz4lUfK_f-gb8B3AN_F7AQ?e=zFBJrD)
+- [Copyright & Ethical Considerations for Digitization Projects](../assets/copyright-ethical-considerations.pdf)
+- [How to Choose Rights Statements and Creative Commons Licenses](../assets/choose-statements-licenses.pdf)
 - [UBC Public Domain Page](https://copyright.ubc.ca/public-domain/)
 - [Donor Agreement Template](https://bchdp.bcelnapps.ca/sites/default/files/2022-08/DonorAgreementTemplate_2022.docx)
 - [Copyright Agreement Template](https://bchdp.bcelnapps.ca/sites/default/files/2022-08/CopyrightAgreementTemplate_2022.docx)
@@ -31,7 +31,7 @@ Describe how quality control and testing will be incorporated.
 
 Linked here is a guide containing Quality Control (QC) or Quality Assurance (QA) recommendations, including a checklist and external resources to consult:
 
-- [Quality Control Recommendations for Digitization Projects](https://1sfu-my.sharepoint.com/:w:/g/personal/offceln_sfu_ca/EUtF-SWvQh1LoMmcd3ojSIQBLj6WaL8BLNarwODckXbmsg?e=raSOBZ)
+- [Quality Control Recommendations for Digitization Projects](../assets/quality-control.pdf)
 
 ## 4. Metadata and Description
 ### 4.02 Metadata schema
