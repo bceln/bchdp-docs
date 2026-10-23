@@ -33,8 +33,21 @@ Linked here is a guide containing Quality Control (QC) or Quality Assurance (QA)
 
 - [Quality Control Recommendations for Digitization Projects](../assets/quality-control.pdf)
 
-## 4. Metadata and Description
-### 4.02 Metadata schema
+## 4. Access and Description
+### 4.01-02 Digital Asset Management System (repository)
+Examples of access / hosting options for making your digitized objects available to the public or your community:
+
+- [Arca](http://arcabc.ca/)
+- [Collective Access](https://www.collectiveaccess.org/)
+- [Our Digital World’s VITA Digital Toolkit](https://ourdigitalworld.net/services/vita-toolkit/)
+- [Access to Memory AtoM](https://www.accesstomemory.org/en/)
+- [CONTENTdm](http://www.oclc.org/en/contentdm.html)
+- [Omeka](https://omeka.org)
+
+!!! info
+    Recipients of BCHDP funding have the option of having their digital content hosted in Arca due to a partnership formed between the Irving K. Barber Learning Center (IKBLC) and BC Electronic Library Network (BC ELN). If you plan to use Arca, please reach out to the [BCHDP Support Service](/bchdp-docs/about/contact) in advance of submitting your application. More information about the hosting service also available [here](/bchdp-docs/arcahosting).
+
+### 4.04 Metadata schema
 What is metadata?
 
 - [NISO Primer: Understanding Metadata: What is it? What is it for?](https://www.niso.org/publications/understanding-metadata-2017)
@@ -47,16 +60,7 @@ Metadata schema suggestions:
 - [Rules for Archival Descriptions (RAD)](http://archivescanada.ca/uploads/files/Publications/RADComplete_July2008.pdf)
 - [Resource Description and Access (RDA)](http://www.rdatoolkit.org)
 
-## 5. Access and Digital Preservation
-Examples of access / hosting options for making your digitized objects available to the public or your community:
-
-- [Arca](http://arcabc.ca/)
-- [Collective Access](https://www.collectiveaccess.org/)
-- [Our Digital World’s VITA Digital Toolkit](https://ourdigitalworld.net/services/vita-toolkit/)
-- [Access to Memory AtoM](https://www.accesstomemory.org/en/)
-- [CONTENTdm](http://www.oclc.org/en/contentdm.html)
-- [Omeka](https://omeka.org)
-
+## 5. Digital Preservation
 ### 5.03 Digital preservation plan
 What is digital preservation?
 
@@ -66,9 +70,10 @@ What is digital preservation?
 What is the difference between digitization and digitial preservation?
 
 !!! quote "*Digital Preservation* – University at Albany University Libraries, 2021 [:octicons-link-24:](https://library.albany.edu/preservation/digipres)"
-    "Digitization is the act of scanning non-digital, analog materials, to digital format. Digital preservation is the act of managing and continually strategizing to keep digital information accessible and authentic. - "Digital Preservation", University at Albany University Libraries, 2021.
+    "Digitization is the act of scanning non-digital, analog materials, to digital format. Digital preservation is the act of managing and continually strategizing to keep digital information accessible and authentic."
 
 More information on digital preservation strategies:
  
+- [Community Archives Digital Preservation Toolkit](https://www.dpconline.org/digipres/implement-digipres/community-archives-dp-toolkit) from the Digital Preservation Coalition
 - [Digital Preservation Management Tutorial](http://www.dpworkshop.org/dpm-eng/terminology/strategies.html)
 - AABC maintains a [list of digital preservation actions](https://aabc.ca/Electronic-Records-&-Digital-Preservation-Management), many of which apply to digitized resources

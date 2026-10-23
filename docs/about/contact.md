@@ -9,8 +9,3 @@
     For general inquiries related to the BC History Digitization Program:
 
     - bc.historydigitization[at]ubc.ca
-
-!!! info "Arca Administrative Centre"
-    To learn more about the Arca digital repository or the materials in it:
-
-    - arcaoffice[at]bceln.ca
