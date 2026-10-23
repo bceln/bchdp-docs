@@ -8,16 +8,17 @@ Depending on applicant needs, support may include:
 * Assistance with grant writing
 * Digitization project management
 * Connections to digitization service providers
-* Copyright advisory
 * Assistance securing digitization staff
 * Metadata review
 
 To provide this critical support, BC ELN draws on a pool of experienced senior staff and engages students enrolled in library and archives programs.
 
 ## How it works
-!!! warning
-    The Early Notice Survey for each year's BCHDP cycle is typically open from July to early August. Interested parties who fill out the survey will be contacted to explore options for support in advance of the actual application cycle (Late September – Early December).
+Prospective applicants to the BCHDP fill out the **Early Notice Survey** to indicate their interest in receiving support. The survey for each year's BCHDP cycle is typically open from July to early August, and announced on the [BCHDP website](https://ikblc.ubc.ca/initiatives/bcdigitinfo/) in addition to various GLAM listservs. 
 
-The Early Notice Survey for the 2027-28 BCHDP grant cycle has closed. Interested parties are still welcome to contact us with questions or requests for support at `digisupport[at]bceln.ca`.
+Interested parties who fill out the survey will be contacted to explore options for support in advance of the actual application cycle (Late September – Early December).
 
-The survey for the 2028-29 BCHDP cycle will open in July 2027.
+!!! warning "Please note:"
+    The Early Notice Survey for the 2027-28 BCHDP grant cycle has closed. Interested parties are still welcome to contact us with questions or requests for support at `digisupport[at]bceln.ca`, though priority will be given to survey respondents.
+
+    The survey for the 2028-29 BCHDP cycle will open in July 2027.

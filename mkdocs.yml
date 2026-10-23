@@ -21,6 +21,8 @@ theme:
       bchdp: octicons/sync-24
     edit: material/pencil
     view: material/eye
+  font:
+    text: Noto
 
 markdown_extensions:
   - admonition
